@@ -10,16 +10,7 @@ package FUNDAMENTALS.STRING;
  */
 
 public class ReversString {
-    public static void main(String[] args) {
-        String string = "Миша";
-        Kata.solution(string);
-        System.out.println(Kata.solution(string));
-    }
-
-    public class Kata {
-
         public static String solution(String str) {
             return new StringBuilder(str).reverse().toString();
         }
     }
-}
