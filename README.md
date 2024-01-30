@@ -1,0 +1,1 @@
+[qExample]([www.ya.ru](https://github.com/igggiRUS/JavaRushTasks/blob/master/1.JavaSyntax/src/com/javarush/task/pro/task13/task1313/Solution.java)https://github.com/igggiRUS/JavaRushTasks/blob/master/1.JavaSyntax/src/com/javarush/task/pro/task13/task1313/Solution.java)
